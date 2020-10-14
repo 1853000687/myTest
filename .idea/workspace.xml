@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d683ee30-e971-4987-9caf-3fd85b05e63a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/maven3.5" />
+        <option name="userSettingsFile" value="D:\maven3.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hTtWEakxJFVowjjEvHwKTz43HX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/shopping-parent/shopping-sso/src/main/webapp/WEB-INF" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2505747" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.edu.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.edu.sso.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idealworks\t18321\shopping\shopping-parent\shopping-sso\src\main\webapp\WEB-INF" />
+      <recent name="E:\idealworks\t18321\shopping\shopping-parent\shopping-sso\src\main\webapp" />
+      <recent name="E:\idealworks\t18321\shopping\shopping-parent\shopping-common\src\main\java\com\edu\common\util" />
+      <recent name="E:\idealworks\t18321\shopping\shopping-parent\shopping-sso\src\main\java\com\edu\sso\dao\impl" />
+      <recent name="E:\idealworks\t18321\shopping\shopping-parent\shopping-sso\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.shopping-portal">
+    <configuration name="RedisTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.rest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.rest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.rest.test.RedisTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedisTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.rest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.rest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.rest.test.RedisTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.rest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.rest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.rest.test.SolrTest" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.rest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.rest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.rest.test.SolrTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolrTest.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shopping-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.edu.rest.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.edu.rest.test" />
+      <option name="MAIN_CLASS_NAME" value="com.edu.rest.test.SolrTest" />
+      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-manager" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-manager" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-portal" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-portal" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-rest" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-rest" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-search" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-search" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="shopping-sso" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/shopping-parent/shopping-sso" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.RedisTest.test" />
+      <item itemvalue="JUnit.RedisTest.test2" />
+      <item itemvalue="JUnit.SolrTest.testAdd" />
+      <item itemvalue="JUnit.SolrTest.testDeleteById" />
+      <item itemvalue="JUnit.SolrTest.test3" />
+      <item itemvalue="Maven.shopping-search" />
+      <item itemvalue="Maven.shopping-manager" />
+      <item itemvalue="Maven.shopping-rest" />
+      <item itemvalue="Maven.shopping-portal" />
+      <item itemvalue="Maven.shopping-sso" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolrTest.testDeleteById" />
+        <item itemvalue="JUnit.SolrTest.test3" />
+        <item itemvalue="JUnit.SolrTest.testAdd" />
+        <item itemvalue="JUnit.RedisTest.test2" />
+        <item itemvalue="JUnit.RedisTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d683ee30-e971-4987-9caf-3fd85b05e63a" name="Default Changelist" comment="" />
+      <created>1600046939529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600046939529</updated>
+      <workItem from="1600046943100" duration="11189000" />
+      <workItem from="1600168505583" duration="3184000" />
+      <workItem from="1600177516784" duration="29000" />
+      <workItem from="1600240778409" duration="4108000" />
+      <workItem from="1600302057247" duration="2396000" />
+      <workItem from="1600388762319" duration="1466000" />
+      <workItem from="1600686194826" duration="3685000" />
+      <workItem from="1600732144117" duration="11741000" />
+      <workItem from="1600762814140" duration="36000" />
+      <workItem from="1600843631029" duration="11066000" />
+      <workItem from="1600905849211" duration="8764000" />
+      <workItem from="1600929790462" duration="25000" />
+      <workItem from="1601178140992" duration="9182000" />
+      <workItem from="1601251529366" duration="1412000" />
+      <workItem from="1602227900370" duration="5958000" />
+      <workItem from="1602250183934" duration="81000" />
+      <workItem from="1602318394069" duration="4916000" />
+      <workItem from="1602461447066" duration="15620000" />
+      <workItem from="1602569477730" duration="5687000" />
+      <workItem from="1602586756773" duration="2087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1600046945512">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600046945512" />
+    <state x="223" y="71" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602571567287">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="71" width="1089" height="732" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602571567287" />
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser" timestamp="1602588709083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="106" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1602588709083" />
+    <state x="498" y="193" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1600242645180">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="193" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1600242645180" />
+    <state x="387" y="328" width="861" height="167" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1602571286045">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="387" y="328" width="861" height="167" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1536.824@0.0.1536.824" timestamp="1602571286045" />
+    <state x="557" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1602571288860">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="328" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1536.824@0.0.1536.824" timestamp="1602571288860" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600758107177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1600758107177" />
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1602577362743">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1602577362743" />
+    <state width="1493" height="313" key="GridCell.Tab.0.bottom" timestamp="1602589036924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602589036924" />
+    <state width="1493" height="313" key="GridCell.Tab.0.center" timestamp="1602589036924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602589036924" />
+    <state width="1493" height="313" key="GridCell.Tab.0.left" timestamp="1602589036924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602589036924" />
+    <state width="1493" height="313" key="GridCell.Tab.0.right" timestamp="1602589036924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602589036924" />
+    <state width="1493" height="313" key="GridCell.Tab.1.bottom" timestamp="1602589036925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602589036925" />
+    <state width="1493" height="313" key="GridCell.Tab.1.center" timestamp="1602589036925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602589036925" />
+    <state width="1493" height="313" key="GridCell.Tab.1.left" timestamp="1602589036925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602589036924" />
+    <state width="1493" height="313" key="GridCell.Tab.1.right" timestamp="1602589036925">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="313" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602589036925" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1602571290329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602571290329" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1602461456258">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1602461456258" />
+    <state x="434" y="63" width="795" height="490" key="find.popup" timestamp="1602587501475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="434" y="63" width="795" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1602587501475" />
+    <state x="282" y="50" width="826" height="590" key="new project wizard" timestamp="1602571169789">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="282" y="50" width="826" height="590" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1602571169789" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602575921732">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602575921732" />
+  </component>
+</project>
